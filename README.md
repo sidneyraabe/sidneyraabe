@@ -1,4 +1,11 @@
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=sidneyraabe&show_icons=true&theme=tokyonight)](https://github.com/sidneyraabe/github-readme-stats)
+<a href="https://www.github.com/sidneyraabe">
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sidneyraabe&show_icons=true&theme=holi&rank_icon=github&ring_color=FFFF00" />
+</a>
+<a href="https://www.github.com/sidneyraabe">
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidneyraabe&theme=holi&custom_title=Most&nbsp;Used&nbsp;Languages&layout=donut" />
+</a>
+
+
 
 
 <!--
